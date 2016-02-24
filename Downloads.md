@@ -1,0 +1,1 @@
+https://github.com/relic-toolkit/relic/releases/latest
